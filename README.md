@@ -6,14 +6,14 @@ Track overall sales and profit performance
 Analyze category-wise and state-wise sales distribution
 Identify top customers and payment preferences
 Monitor monthly profit trends
+
 📁 Dataset
-
 The dataset includes:
-
 Orders data (sales, quantity, profit)
 Customer details
 Product categories and sub-categories
 Payment modes
+
 📊 Dashboard Features
 KPI Metrics
 Total Sales: 438K
@@ -30,8 +30,6 @@ Profit by Sub-Category
 Filters
 Quarterly filter (Qtr 1 – Qtr 4)
 State selection
-
-
 
 💡 Key Insights
 Clothing category contributes the highest quantity (~63%)
